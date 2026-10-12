@@ -9,9 +9,15 @@
 </ul>
 <h2>Frontend Development</h2>
 <ul>
-  <li>Languages ​​and Technologies: HTML, CSS, JavaScript, TypeScript.</li>
-  <li>Frameworks and Libraries:React.js, Vue.js.</li>
+  <li>Languages ​​and Technologies: HTML, CSS, JavaScript, TypeScript</li>
+  <li>Frameworks and Libraries:React.js, Vue.js</li>
   <li>Stylish and Responsive Design:Tailwind CSS</li>
+</ul>
+
+<h2>Backend Development and Databases</h2>
+<ul>
+  <li>Environments and Servers: Node.js</li>
+  <li>Databases: PostgreSQL, MySQL, SQL Server</li>
 </ul>
 
 <!--
