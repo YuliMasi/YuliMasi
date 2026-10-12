@@ -4,10 +4,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/github-repo-blue?logo=github">
 </a>
 <h2>About me</h2>
-<ul>
-  <li>Web developer</li>
-  <li>Designer</li>
-</ul>
+<p>
+  I am a web developer and designer; I enjoy developing websites, applications, and games, as well as creating content that helps others.
+</p>
 <h2>Frontend Development</h2>
 <ul>
   <li>Languages ​​and Technologies: HTML, CSS, JavaScript, TypeScript</li>
