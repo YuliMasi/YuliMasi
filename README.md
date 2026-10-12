@@ -1,5 +1,9 @@
 <h1 align="center">Hi I'm Yuliana</h1>
+<a href="https://github.com/YuliMasi/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/github-repo-blue?logo=github">
+</a>
 <h2>About me</h2>
+
 <!--
 **YuliMasi/YuliMasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
