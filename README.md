@@ -1,4 +1,5 @@
 <h1 align="center">Hi I'm Yuliana</h1>
+<img alt="Banner" src="">
 <a href="https://github.com/YuliMasi/">
   <img alt="Static Badge" src="https://img.shields.io/badge/github-repo-blue?logo=github">
 </a>
