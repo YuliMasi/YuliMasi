@@ -32,6 +32,16 @@
   <li>Interface Design: Figma, Adobe</li>
   <li>Content Management: WordPress</li>
 </ul>
+<h2></h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YuliMasi&show_icons=true&theme=tokyonight" width="40%" alt="YuliMasi GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuliMasi&layout=compact&theme=tokyonight" width="40%" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuliMasi&theme=tokyonight" width="80%" alt="GitHub Streak" />
+</p>
 <!--
 **YuliMasi/YuliMasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
