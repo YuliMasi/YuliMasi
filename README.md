@@ -5,6 +5,13 @@
 <h2>About me</h2>
 <ul>
   <li>Web developer</li>
+  <li>Designer</li>
+</ul>
+<h2>Frontend Development</h2>
+<ul>
+  <li>Languages ​​and Technologies: HTML, CSS, JavaScript, TypeScript.</li>
+  <li>Frameworks and Libraries:React.js, Vue.js.</li>
+  <li>Stylish and Responsive Design:Tailwind CSS</li>
 </ul>
 
 <!--
