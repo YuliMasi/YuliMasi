@@ -26,6 +26,12 @@
   <li>Containers and Deployment: Docker, Vercel, Render, Railway</li>
   <li>Work Environments: VS Code, Postman, Intellij IDEA Community Edition</li>
 </ul>
+
+<h2>Multimedia, UI/UX, and Web Design</h2>
+<ul>
+  <li>Interface Design: Figma, Adobe</li>
+  <li>Content Management: WordPress</li>
+</ul>
 <!--
 **YuliMasi/YuliMasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
