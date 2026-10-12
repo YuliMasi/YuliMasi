@@ -24,7 +24,7 @@
 <ul>
   <li>Code Control: Git, GitHub, GitLab.</li>
   <li>Containers and Deployment: Docker, Vercel, Render, Railway</li>
-  <li>Work Environments: VS Code, Postman</li>
+  <li>Work Environments: VS Code, Postman, Intellij IDEA Community Edition</li>
 </ul>
 <!--
 **YuliMasi/YuliMasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
