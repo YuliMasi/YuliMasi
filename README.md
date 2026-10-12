@@ -20,6 +20,12 @@
   <li>Databases: PostgreSQL, MySQL, SQL Server</li>
 </ul>
 
+<h2>Tools, DevOps, and Version Control</h2>
+<ul>
+  <li>Code Control: Git, GitHub, GitLab.</li>
+  <li>Containers and Deployment: Docker, Vercel, Render, Railway</li>
+  <li>Work Environments: VS Code, Postman</li>
+</ul>
 <!--
 **YuliMasi/YuliMasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
