@@ -16,14 +16,14 @@
 
 <h2>Backend Development and Databases</h2>
 <ul>
-  <li>Environments and Servers: Node.js</li>
+  <li>Environments, Languages and Servers: Node.js, Java (Spring Boot), PHP</li>
   <li>Databases: PostgreSQL, MySQL, SQL Server</li>
 </ul>
 
 <h2>Tools, DevOps, and Version Control</h2>
 <ul>
-  <li>Code Control: Git, GitHub, GitLab.</li>
-  <li>Containers and Deployment: Docker, Vercel, Render, Railway</li>
+  <li>Code Control & Documentation: Git, GitHub, GitLab, Markdown</li>
+  <li>Containers and Deployment: Docker, Cloudflare, Vercel, Render, Railway</li>
   <li>Work Environments: VS Code, Postman, Intellij IDEA Community Edition</li>
 </ul>
 
