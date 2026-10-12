@@ -32,7 +32,7 @@
   <li>Interface Design: Figma, Adobe</li>
   <li>Content Management: WordPress</li>
 </ul>
-<h2></h2>
+<h2>Statistics</h2>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=YuliMasi&show_icons=true&theme=tokyonight" width="40%" alt="YuliMasi GitHub Stats" />
